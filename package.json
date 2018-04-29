@@ -1,0 +1,22 @@
+{
+  "name": "rotary-rogersearlyrisers",
+  "version": "1.0.0",
+  "description": "a website for the rogers early risers notary to display members and event information",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgehlhausen/rotary-rogersearlyrisers.git"
+  },
+  "author": "Gehlhausen, Heath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgehlhausen/rotary-rogersearlyrisers/issues"
+  },
+  "homepage": "https://github.com/hgehlhausen/rotary-rogersearlyrisers#readme",
+  "dependencies": {
+    "webpack": "^4.6.0"
+  }
+}
