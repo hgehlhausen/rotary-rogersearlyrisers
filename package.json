@@ -4,6 +4,7 @@
   "description": "a website for the rogers early risers notary to display members and event information",
   "main": "src/app.js",
   "scripts": {
+    "lessc": "./node_modules/.bin/lessc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/hgehlhausen/rotary-rogersearlyrisers#readme",
   "dependencies": {
+    "less": "^3.0.2",
     "webpack": "^4.6.0"
   }
 }
